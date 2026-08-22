@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Omkar-Udawant/DSA/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Omkar-Udawant/DSA/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
