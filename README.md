@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omkar-Udawant/DSA/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Omkar-Udawant/DSA/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Omkar-Udawant/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Omkar-Udawant/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Omkar-Udawant/DSA/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Omkar-Udawant/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Omkar-Udawant/DSA/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -38,4 +40,16 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Omkar-Udawant/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Omkar-Udawant/DSA/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Omkar-Udawant/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Omkar-Udawant/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
