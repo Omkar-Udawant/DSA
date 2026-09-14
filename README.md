@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Omkar-Udawant/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Omkar-Udawant/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Omkar-Udawant/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Omkar-Udawant/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Omkar-Udawant/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Omkar-Udawant/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Omkar-Udawant/DSA/tree/master/0268-missing-number) |
@@ -73,4 +74,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Omkar-Udawant/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Omkar-Udawant/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
