@@ -83,4 +83,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Omkar-Udawant/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Database
+|  |
+| ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Omkar-Udawant/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
