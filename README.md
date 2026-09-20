@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/Omkar-Udawant/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Omkar-Udawant/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Omkar-Udawant/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Omkar-Udawant/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Omkar-Udawant/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Omkar-Udawant/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Omkar-Udawant/DSA/tree/master/0268-missing-number) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omkar-Udawant/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Omkar-Udawant/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Omkar-Udawant/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Omkar-Udawant/DSA/tree/master/0268-missing-number) |
 ## Math
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Omkar-Udawant/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Omkar-Udawant/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
