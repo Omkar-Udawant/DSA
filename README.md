@@ -17,6 +17,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Omkar-Udawant/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Omkar-Udawant/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Omkar-Udawant/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/Omkar-Udawant/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Omkar-Udawant/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Omkar-Udawant/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Omkar-Udawant/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -28,6 +29,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Omkar-Udawant/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Omkar-Udawant/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Omkar-Udawant/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Omkar-Udawant/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Omkar-Udawant/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Omkar-Udawant/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -49,6 +51,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Omkar-Udawant/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Omkar-Udawant/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Omkar-Udawant/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Omkar-Udawant/DSA/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -82,10 +85,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Omkar-Udawant/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Omkar-Udawant/DSA/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Omkar-Udawant/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Omkar-Udawant/DSA/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
