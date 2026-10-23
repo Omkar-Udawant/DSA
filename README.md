@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/Omkar-Udawant/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Omkar-Udawant/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Omkar-Udawant/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Omkar-Udawant/DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Omkar-Udawant/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Omkar-Udawant/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Omkar-Udawant/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Omkar-Udawant/DSA/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Omkar-Udawant/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
