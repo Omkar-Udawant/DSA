@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Omkar-Udawant/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Omkar-Udawant/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Union-Find
 |  |
 | ------- |
